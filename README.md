@@ -1,8 +1,7 @@
 📊 Blinkit Sales Analysis Dashboard | Microsoft Excel
 
 📸 Dashboard Preview
-
-![Blinkit Sales Dashboard](./Blinkit Dashboard.png)
+![Blinkit Sales Dashboard](./blinkit-dashboard.png)
 
 📌 Project Overview
 
