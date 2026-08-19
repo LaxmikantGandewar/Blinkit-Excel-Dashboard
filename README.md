@@ -2,7 +2,7 @@
 
 📸 Dashboard Preview
 
-![Blinkit Sales Dashboard](./blinkit-dashboard.png)
+![Blinkit Sales Dashboard](./Blinkit Dashboard.png)
 
 📌 Project Overview
 
